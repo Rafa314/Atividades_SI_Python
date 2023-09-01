@@ -1,0 +1,16 @@
+1)
+
+a) Quais são os dados envolvidos? São se entrada ou de saída? Quais são os tipos desses
+dados?
+
+R: é requisitado para o usuário dois inputs(dados de entrada) que recebem valores float.
+já o valor de saída é a média que definimos na variável "media". sai como valor float.
+
+- Solução 1 é a resposta correta
+
+
+2) Uma determinada instituição de ensino calcula a nota final de seus alunos a partir das notas
+das provas (P1, P2 e Pi). Tendo essas notas definidas, a nota final é calculada com a fórmula
+(P1 + (P2 + Pi).2)/3. Crie um programa que permita saber qual a nota final de um aluno.
+
+Para fins de teste, considere que P1 é uma nota entre 10, P2 e Pi são notas entre 5 e 0.
